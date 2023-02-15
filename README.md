@@ -2,6 +2,7 @@
 
 ```2.15 20:00 update```  
 文件失效的问题已解决。  
+建议通过电脑端浏览器打开下载。
 如果出现文件下载失败的问题请联系邮箱qingy3@outlook.com。  
 或者通过链接获取全部文件：  
 https://pan.baidu.com/s/120unCoITrYzpL7RYhgxeYQ?pwd=493k  
