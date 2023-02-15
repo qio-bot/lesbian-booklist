@@ -1,5 +1,13 @@
 # lesbian-booklist
 
+```2.15 20:00 update```  
+文件失效的问题已解决。  
+如果出现文件下载失败的问题请联系邮箱qingy3@outlook.com。  
+或者通过链接获取全部文件：  
+https://pan.baidu.com/s/120unCoITrYzpL7RYhgxeYQ?pwd=493k  
+提取码:493k  
+
+
 ```2.15 17:00 update```  
 目前大部分文件已可以下载，除了以下四本大小超过100M的pdf：  
 40-阁楼里的衣柜：21世纪以来大陆女同性恋文学初探  
