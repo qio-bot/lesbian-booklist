@@ -2,11 +2,15 @@
 
 5.16
 
-更新了网盘链接
+可以用夸克浏览器获取该网页下的文件内容。
 
-通过百度网盘分享的文件：女同性恋书单链接:https://pan.baidu.com/s/1MPJQpy4noapAIXEQTrSDfA?pwd=ifki 
+或者用下面的链接
 
-提取码:ifki
+通过百度网盘分享的文件：书单链接:https://pan.baidu.com/s/109q_IEsySSBfmkauD-4QaA?pwd=5694 
+
+提取码:5694
+
+复制这段内容打开「百度网盘APP 即可获取」
 
 ```2.15 20:00 update```  
 文件失效的问题已解决。  
